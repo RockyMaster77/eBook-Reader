@@ -17,12 +17,10 @@ OpenBook is an open-source e-book reader designed to be affordable and customiza
 5. [Hardware Components & Datasheets](#hardware-components--datasheets)
 
 6. [Design Decisions and Trade-offs](#design-decisions-and-trade-offs)
-
-7. [3D Visualizations](#3d-visualizations)
    
-8. [Testing and Debugging](#testing-and-debugging)
+7. [Testing and Debugging](#testing-and-debugging)
 
-9. [Suggestions](#suggestions)
+8. [Suggestions](#suggestions)
 
 
 ## Features
@@ -314,27 +312,6 @@ Total Current Draw: 89.8 mA
 
 - The models for the battery and display are included to mimic their real-world sizes for visualization purposes. They do not reflect the actual hardware functionality or internal components.
 
-## 3D Visualizations
-
-### PCB
-
-![Block Diagram](Images/FrontPCB.png)
-
-### Battery
-
-![Block Diagram](Images/Battery.PNG)
-
-### Display
-
-![Block Diagram](Images/DisplayTop.png)
-
-### Full Product
-
-![Block Diagram](Images/ExplodedView.PNG)
-
-![Block Diagram](Images/FrontModel.PNG)
-
-![Block Diagram](Images/BackModel.png)
 
 ## Testing and Debugging
 
@@ -372,9 +349,4 @@ The OpenBook PCB has test pads for each major communication and power line.
 - User interface: Use a simple menu system for navigation and control
 
 - File management: Implement a file system for easy access to e-books on the microSD card
-
-
-
-
-
 
